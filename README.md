@@ -4,11 +4,11 @@ A modern, responsive portfolio website built with Next.js, showcasing my journey
 
 ## 🌟 Live Demo
 
-Visit my portfolio at: [theanikettayade.com](https://theanikettayade.com)
+Visit my portfolio at: [Live Link](https://aniket-tayade.vercel.app/)
 
 ## 🚀 About Me
 
-I'm Aniket Tayade, a passionate Full Stack Developer with expertise in modern web technologies. This portfolio represents my journey, skills, and the projects I've crafted with dedication and creativity.
+I'm Aniket Tayade, a passionate Junior Data Scientist & Next.js Front-End Developer with expertise in modern web technologies. This portfolio represents my journey, skills, and the projects I've crafted with dedication and creativity.
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +74,7 @@ I'm Aniket Tayade, a passionate Full Stack Developer with expertise in modern we
 
 2. **Install dependencies**
    ```bash
-   npm install
+   pnpm install
    # or
    yarn install
    ```
@@ -107,7 +107,7 @@ I'm Aniket Tayade, a passionate Full Stack Developer with expertise in modern we
 
 5. **Run the development server**
    ```bash
-   npm run dev
+   pnpm run dev
    # or
    yarn dev
    ```
@@ -125,7 +125,7 @@ I'm Aniket Tayade, a passionate Full Stack Developer with expertise in modern we
 
 ### Deploy on Netlify
 
-1. Build the project: `npm run build`
+1. Build the project: `pnpm run build`
 2. Deploy the `out` folder to Netlify
 3. Configure environment variables
 
@@ -179,10 +179,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Aniket Tayade**
-- Portfolio: [theanikettayade.com](https://theanikettayade.com)
-- LinkedIn: [linkedin.com/in/aniket-tayade](https://linkedin.com/in/aniket-tayade)
+- Portfolio: [https://aniket-tayade.vercel.app/](https://aniket-tayade.vercel.app/)
+- LinkedIn: [https://www.linkedin.com/in/aniket-g-tayade](https://www.linkedin.com/in/aniket-g-tayade)
 - GitHub: [github.com/tayade-aniket](https://github.com/tayade-aniket)
-- Email: aniket@theanikettayade.com
+- Email: tayadeanni@gmail.com
 
 ---
 
